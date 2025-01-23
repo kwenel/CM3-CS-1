@@ -1,0 +1,1 @@
+While doing the entirety of this assignment there was very little that I learned because most of the time i was confused with this website. There are a lot of buttons and the directions were misleading. I am confused on all of the create files and everything. At the end of the day I heavily relied on the CS50.ai to maneuver everything.
